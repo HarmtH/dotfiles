@@ -1,9 +1,9 @@
 set encoding=utf-8
 
-" Set tabs to spaces with a width of 2
+" Set tabs to spaces with a width of 4
 set expandtab
-set shiftwidth=2
-set tabstop=2
+set shiftwidth=4
+set tabstop=4
 
 set autoindent
 set cc=80 " Show line length mark at 80 characters
